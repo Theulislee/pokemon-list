@@ -1,0 +1,1 @@
+export default interface pokemon {pokemon: string; url: string;}
